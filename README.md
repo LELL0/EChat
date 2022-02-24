@@ -12,6 +12,21 @@ A Public Repo of the EncryptedChat Repository contains the executables of the di
 
 ==============================================================================================================================================================
 
+# VERSION 1.2.7
+
+- Fixed some visuals, like Icons and some resizing and alignments.
+
+
+![image](https://user-images.githubusercontent.com/81851926/155596402-7313006f-b1d9-4c4e-a5f2-c9be88db4986.png)
+
+
+
+- Added Settings Frame, right now it only contains (ABOUT) like version author name and my email.
+
+
+![image](https://user-images.githubusercontent.com/81851926/155596849-0b259cb2-adbc-4c51-832c-c9951ff376ff.png)
+
+
 
 # VERSION 1.2.6
 
