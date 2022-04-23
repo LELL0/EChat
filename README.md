@@ -1,30 +1,34 @@
 # EChat
 
-# A Public Repo of the EncryptedChat Repository contains the executables of the different versions of the program as well as documentation.
+### A Public Repo of the EncryptedChat Repository contains the executables of the different versions of the program as well as documentation.
 
-# this is a closed source project at this moment, only executables and documentation will be published in this repository.
+### This is a closed source project at this moment, only executables and documentation will be published in this repository.
 
 
-# Its a SECURE messaging service:
+### Its a SECURE messaging service:
   - allows people to text over the internet without identifying themselves by phone numbers or email or anything.
   - the person to who the message is sent is the ONLY one who can decrypt the message, so the only one who can read the text.
   - no data is stored on the server.
 
 
-# Username Criteria:
+### Username Criteria:
 - Only contains characters, underscore, and dot.
 - Underscore and dot can't be at the end or start of a username (e.g _username / username_ / .username / username.).
 - Underscore and dot can't be next to each other (e.g user_.name).
 - Underscore or dot can't be used multiple times in a row (e.g user__name / user..name).
 
+## The project is still under development, the server is being rebuilt for better scalability.
 
-# Versions Older Than 1.2.9.0 are now rejected by the official server.
+```
+Versions Older Than 1.2.9.0 are now rejected by the official server.
+```
 
 
-==============================================================================================================================================================
+![Channels-end-to-end-encryption (2)](https://user-images.githubusercontent.com/81851926/164936524-b3ee5827-7ee2-49a3-bf5d-cebae88d670d.jpg)
 
 
-# VERSION 1.2.9.1
+
+## VERSION 1.2.9.1
 
 - Introducing New Lines in messages:
   
@@ -39,7 +43,7 @@
 
 
 
-# VERSION 1.2.9.0
+## VERSION 1.2.9.0
 
 - Introducing Banning Users:
   
@@ -66,7 +70,7 @@
 
 
 
-# VERSION 1.2.8
+## VERSION 1.2.8
 
  - login and register:
   	+ now they are two separate frames
@@ -152,7 +156,7 @@
 
 
 
-# VERSION 1.2.7
+## VERSION 1.2.7
 
 - Fixed some visuals, like Icons, and some resizing and alignments.
 
@@ -168,7 +172,7 @@
 
 
 
-# VERSION 1.2.6
+## VERSION 1.2.6
 
 - A "$ Private message From " text will be displayed before any private message
 
@@ -184,7 +188,7 @@
 
 
 
-# VERSION 1.2.5
+## VERSION 1.2.5
 
 - Introducing Private Messaging:
   we can send private messages to the user we want as long as we see their name on the left (Online), so we just have to click on the person's name and type a message.
@@ -214,7 +218,7 @@
 
 
 
-# VERSION 1.2.4
+## VERSION 1.2.4
 
 - Added Reconnect Button in the top right so the user can simply reconnect instead of closing and reopening the application
 
@@ -224,7 +228,7 @@
 
 
 
-# VERSION 1.2.3
+## VERSION 1.2.3
 
 - The setup frame has disabled objects to make it easier to use the working slots only
 
@@ -234,7 +238,7 @@
 
 
 
-# VERSION 1.2.2
+## VERSION 1.2.2
 
 - we have a setup frame where we can enter our details like Username password..., so we can log in or register (Registration is disabled at this point).
 
@@ -255,13 +259,13 @@
 - some other fixes...
 
 
-# VERSION 1.2.1
+## VERSION 1.2.1
 
 - Minor Bug Fixes
 
 
 
-# VERSION 1.2.0
+## VERSION 1.2.0
 
 - no private chats YET
 
@@ -285,7 +289,7 @@ If the user disconnects from the server or the server Goes Offline:
 
 
 
-# VERSION 1.1.2
+## VERSION 1.1.2
 - unstable version.
 
 GUI:
