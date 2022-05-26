@@ -1,9 +1,10 @@
 # EChat
 
-### A Public Repo of the EncryptedChat Repository contains the executables of the different versions of the program as well as documentation.
+### A Public Repo of the "EncryptedChat" Repository, caontains the executables of my app as well as documentation.
 
 ### This is a closed source project at this moment, only executables and documentation will be published in this repository.
 
+### This project is written in JAVA.
 
 ### Its a SECURE messaging service:
   - allows people to text over the internet without identifying themselves by phone numbers or email or anything.
